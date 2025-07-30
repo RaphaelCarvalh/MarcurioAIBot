@@ -1,4 +1,4 @@
-<div align="center"> <h1>🤖  Mercurio AI</h1> <h3>Atendimento automatizado via WhatsApp com IA generativa para atendimento ao público</h3> </div> <div align="center"> <img src="https://lh3.googleusercontent.com/d/1wTNvlbpiZRM5sBCviAJX_ZQEW7Fq3xkG" alt="Mercurio Collection" width="600"/> <img src="https://lh3.googleusercontent.com/d/1ujKH-83ApkhTPHJmvgkkCbjrHhexSadl" alt="Mercurio Others" width="350"/> </div>
+<div align="center"> <h1>🤖  Mercurio AI</h1> <h3>Atendimento automatizado via WhatsApp com IA generativa para atendimento ao público</h3> </div> <div align="center"> <img src="https://lh3.googleusercontent.com/d/1wTNvlbpiZRM5sBCviAJX_ZQEW7Fq3xkG" alt="Mercurio Collection" width="500"/> <img src="https://lh3.googleusercontent.com/d/1ujKH-83ApkhTPHJmvgkkCbjrHhexSadl" alt="Mercurio Others" width="300"/> </div>
 💡 Visão Geral
 Mercurio AI é um bot de atendimento via WhatsApp, desenvolvido para oferecer respostas inteligentes, ágeis e personalizadas usando IA generativa da Google Cloud. Além de conversar de forma natural, o bot interage com Trello e Firestore, automatizando processos comuns no dia a dia de atendentes e operadores.
 
@@ -26,7 +26,7 @@ Trello API	Automação de tarefas via criação de cards
 Vertex AI (GCP)	Motor de IA generativa para compreensão e resposta em linguagem natural
 Docker	Contêineres isolados para cada serviço, garantindo facilidade no deploy
 
-<div align="center"> <img src="https://lh3.googleusercontent.com/d/1EZxgAYkvVo6AqiZRKHVKNMPVLyJ7abfY" alt="Mercurio Collection" width="400"/> <img src="https://lh3.googleusercontent.com/d/1AuP8otFxbIo0z_V9piLMXrWBzhAhOdYa" alt="Mercurio Others" width="500"/> </div>
+<div align="center"> <img src="https://lh3.googleusercontent.com/d/1EZxgAYkvVo6AqiZRKHVKNMPVLyJ7abfY" alt="Mercurio Collection" width="300"/> <img src="https://lh3.googleusercontent.com/d/1AuP8otFxbIo0z_V9piLMXrWBzhAhOdYa" alt="Mercurio Others" width="400"/> </div>
 🔁 Fluxo de Funcionamento
 O usuário envia uma mensagem via WhatsApp
 Twilio captura e envia essa mensagem para o backend.
